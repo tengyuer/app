@@ -1,1 +1,1 @@
-{"appid":"www.zonghe.puzzlemajor","name":"SSC","show":"show","url":"http://www.baidu.com/"}
+{"appid":"www.zonghe.puzzlemajor","name":"SSC","show":"37a236ecf6f814d1a909ea842c6933fe","url":"http://www.baidu.com/"}
