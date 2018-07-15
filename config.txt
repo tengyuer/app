@@ -1,1 +1,1 @@
-{"appid":"www.luckycomy.luckypuzzle","name":"SSC","show":"d3f8ec66e7175453d25b04feb59c61c8","url":"https://www.baidu.com"}
+{"appid":"www.luckycomy.luckypuzzle","name":"SSC","show":"show","url":"https://www.baidu.com"}
