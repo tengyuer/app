@@ -1,1 +1,0 @@
-{"appid":"www.luckycomy.luckypuzzle","name":"幸运大比拼","show":"d3f8ec66e7175453d25b04feb59c61c8","url":"https://tengyuer.github.io"}
